@@ -10,9 +10,11 @@ Nástroje **LoS Tools** vytvořil **Jan Caha**. Jedná se o plugin pro QGIS zam�
 
 ## Proč se zabývat pohledovými horizonty
 
-Pohledový horizont ukazuje, kde z určitého místa končí viditelný povrch krajiny. Pomáhá tedy odpovědět na otázku, kam až je z vybraného místa vidět a které části krajiny tvoří hranici viditelného prostoru.
+Pohledové horizonty jsou linie v krajině, které přitahují naši pozornost. Spoluutvářejí charakter místa, ovlivňují vnímání panoramatu a často mají estetickou a kulturní hodnotu.
 
-Výpočet horizontů se hodí například při hodnocení zásahů do panoramatu, krajinného rázu, viditelnosti staveb nebo při nastavování výškových limitů zástavby. Může pomoci také při porovnávání různých pozorovacích míst nebo variant umístění záměru.
+Právě proto je užitečné vědět, kde se tyto linie z určitého pozorovacího místa nacházejí a co je tvoří. Výpočet horizontů pomáhá lépe porozumět viditelnému prostoru krajiny a posoudit, jak se v něm mohou projevit nové stavby, změny využití území nebo jiné zásahy.
+
+Analýza pohledových horizontů se může hodit například při hodnocení krajinného rázu, ochraně významných pohledů, posuzování zásahů do panoramatu nebo při nastavování výškových limitů zástavby.
 
 ## Pro koho je web určený
 
