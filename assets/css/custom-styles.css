@@ -107,3 +107,24 @@ footer .fa-stack-2x {
 footer .fa-stack-1x {
   color: #ffffff !important;
 }
+
+/* Kompaktnější seznamy v obsahu */
+
+.main-content ul,
+.main-content ol {
+  margin-top: 0.4em;
+  margin-bottom: 1em;
+  padding-left: 1.4em;
+}
+
+.main-content li {
+  margin-top: 0.1em !important;
+  margin-bottom: 0.1em !important;
+  line-height: 1.45;
+}
+
+/* Kdyby šablona obalila položky seznamu do odstavců */
+.main-content li p {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}
