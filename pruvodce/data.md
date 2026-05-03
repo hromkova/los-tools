@@ -1,4 +1,4 @@
-[Domů](index.md) | [Začít zde](zacit.md) | [Instalace](instalace.md) | [Data](data.md) | [Pojmy](pojmy.md) | [Příklady](priklady.md) | [FAQ](faq.md) | [Odkazy](odkazy.md)
+[Domů](../index.md) | [Začít s LoS Tools](../zacit.md) | [Modelové příklady](../priklady.md) | [Ke stažení](../stazeni.md) | [FAQ](../faq.md) | [Odkazy](../odkazy.md)
 
 ---
 
