@@ -1,6 +1,9 @@
-# Odkazy
+---
+layout: page
+title: Odkazy
+subtitle: Užitečné zdroje pro LoS Tools, QGIS a modelová data
+---
 
-Na této stránce jsou uvedeny důležité odkazy pro práci s LoS Tools, QGIS a modelovými daty.
 
 ## LoS Tools
 
