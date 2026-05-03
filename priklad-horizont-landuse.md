@@ -138,6 +138,10 @@ Výstupní tabulka může obsahovat například:
 
 ## Jak číst výsledek
 
+Data pro využití území lze stáhnout pro území města Brna na stránkách <a href="https://land.copernicus.eu/en/products/urban-atlas?tab=land_coverland_use " target="_blank" rel="noopener noreferrer">Urban Atlasu</a>
+
+## Jak číst výsledek
+
 Výsledek ukazuje, kde se v jednotlivých směrech nachází horizont.
 
 Pokud je horizontní bod propojený s vrstvou využití území, lze zjistit, co danou část horizontu tvoří. Může jít například o:
