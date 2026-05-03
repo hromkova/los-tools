@@ -1,8 +1,8 @@
-# Modelové příklady
-
-Modelové příklady ukazují, jak lze LoS Tools použít v praxi.
-
-První verze webu obsahuje návrh příkladů. Podrobné návody, screenshoty a vzorové projekty QGIS budou doplněny postupně.
+---
+layout: page
+title: Modelové příklady
+subtitle: Ukázky využití LoS Tools v QGIS
+---
 
 ## Příklad 1: Horizont kolem jednoho pozorovatele
 
