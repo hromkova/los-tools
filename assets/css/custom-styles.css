@@ -1,67 +1,61 @@
-/* LoS Tools Lab – jemná světle modrá úprava vzhledu */
+/* Odstranění zbytečné mezery mezi horním menu a hlavičkou stránky */
 
-/* Horní navigační lišta */
 .navbar-custom {
-  background-color: #eaf4fb;
-  border-bottom: 1px solid #cfe3f2;
+  margin-bottom: 0 !important;
 }
 
-/* Název webu vlevo v navigaci */
-.navbar-custom .navbar-brand {
-  color: #12384f;
-}
-
-/* Položky menu */
-.navbar-custom .nav li a {
-  color: #12384f;
-}
-
-/* Položky menu při najetí myší */
-.navbar-custom .nav li a:hover,
-.navbar-custom .navbar-brand:hover {
-  color: #0f766e;
-}
-
-/* Jemné světle modré pozadí hlavičky stránky */
 .intro-header {
+  margin-top: 0 !important;
+  padding-top: 55px !important;
+  padding-bottom: 45px !important;
   background-color: #f3f9fd;
 }
 
-/* Hlavní nadpis v hlavičce */
-.intro-header .page-heading h1 {
+/* Kompaktnější titulní část stránky */
+
+.intro-header .page-heading,
+.intro-header .post-heading {
+  padding-top: 25px !important;
+  padding-bottom: 20px !important;
+}
+
+/* Hlavní nadpis */
+
+.intro-header .page-heading h1,
+.intro-header .post-heading h1 {
   color: #1f3b57;
 }
 
 /* Podnadpis */
-.intro-header .page-heading .page-subheading {
+
+.intro-header .page-heading .page-subheading,
+.intro-header .post-heading .post-subheading {
   color: #49667c;
 }
 
-/* Krátký oddělovač pod nadpisem */
-.intro-header .page-heading .page-subheading:before,
-.intro-header .page-heading hr.small {
+/* Oddělovač pod nadpisem */
+
+.intro-header hr.small {
   border-color: #9fc7df;
 }
 
-/* Nadpisy v obsahu */
-.main-content h1,
-.main-content h2,
-.main-content h3 {
-  color: #0f5f7a;
+/* Světle modré pozadí horního menu */
+
+.navbar-custom {
+  background-color: #eaf4fb !important;
+  border-bottom: 1px solid #cfe3f2 !important;
 }
 
-/* Odkazy */
-.main-content a {
-  color: #0f6fa6;
+/* Odkazy v menu */
+
+.navbar-custom .navbar-brand,
+.navbar-custom .nav li a {
+  color: #12384f !important;
 }
 
-/* Odkazy při najetí */
-.main-content a:hover {
-  color: #0f766e;
-}
+/* Hover v menu */
 
-/* Jemné zvýraznění bloků */
-blockquote {
-  border-left: 5px solid #9fc7df;
-  background-color: #f3f9fd;
+.navbar-custom .navbar-brand:hover,
+.navbar-custom .nav li a:hover {
+  color: #0f766e !important;
 }
