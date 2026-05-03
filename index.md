@@ -1,39 +1,42 @@
 ---
 layout: page
 title: LoS Tools Lab
-subtitle: Návody, modelová data a příklady využití nástrojů LoS Tools v QGIS
+subtitle: Výukový web pro práci s nástroji LoS Tools v QGIS
 ---
 
-**LoS Tools** jsou nástroje pro QGIS určené k analýze linií viditelnosti a výpočtu pohledových horizontů.
+**LoS Tools Lab** je výukový web, který vás krok za krokem provede prací s nástroji **LoS Tools** v prostředí QGIS.
 
-Pomáhají zjistit, co je z vybraného místa v krajině viditelné, kde se nachází horizont a jak lze výsledky dále interpretovat v prostředí GIS.
+Nástroje **LoS Tools** vytvořil **Jan Caha**. Jedná se o plugin pro QGIS zaměřený na analýzy viditelnosti, tvorbu linií viditelnosti a výpočet pohledových horizontů. Oficiální stránku nástroje najdete zde:
 
-Web je určený hlavně pro běžné uživatele QGIS, studenty a další zájemce, kteří mají základní zkušenost s prací v QGIS, ale zatím nepracovali s analýzou viditelnosti nebo výpočtem horizontů.
+[Oficiální stránka LoS Tools](https://cahik.cz/projects/lostools/)
+
+Tento web slouží jako praktický průvodce pro uživatele, kteří si chtějí nástroje vyzkoušet na modelových datech a naučit se interpretovat výsledky.
+
+## Pro koho je web určený
+
+Web je určený hlavně pro uživatele, kteří mají základní zkušenost s QGIS, ale zatím nepracovali s analýzou viditelnosti nebo výpočtem horizontů.
+
+Hodí se například pro:
+
+- studenty,
+- pracovníky veřejné správy,
+- krajináře a urbanisty,
+- uživatele GIS,
+- všechny, kdo chtějí pochopit princip výpočtu pohledového horizontu.
 
 ## Co se zde naučíte
 
-Na tomto webu najdete:
+Na webu najdete postupně:
 
-- k čemu LoS Tools slouží,
-- jak plugin nainstalovat do QGIS,
-- jaká data jsou potřeba,
-- co znamenají základní pojmy,
-- jak provést první výpočet horizontu,
-- jak si postup vyzkoušet na modelových datech,
-- jak řešit nejčastější problémy.
-
-## Hlavní části webu
-- [Instalace](pruvodce/instalace.md)
-- [Jaká data jsou potřeba](pruvodce/data.md)
-- [Základní pojmy](pruvodce/pojmy.md)
-- [První výpočet horizontu](pruvodce/prvni-vypocet.md)
-- [Jak číst výsledky](pruvodce/vysledky.md)
-- [Modelové příklady](priklady.md)
-- [Ke stažení](stazeni.md)
-
+1. jak nainstalovat QGIS a plugin LoS Tools,
+2. jaká data jsou potřeba,
+3. co znamenají základní pojmy,
+4. jak provést první výpočet horizontu,
+5. jak číst výsledky,
+6. jak si postup vyzkoušet na modelových datech.
 
 ## Doporučený první krok
 
 Pokud s LoS Tools začínáte, pokračujte stránkou:
 
-[Začít zde](zacit.md)
+[Začít s LoS Tools](zacit.md)
