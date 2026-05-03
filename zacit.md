@@ -34,7 +34,7 @@ Plugin si můžete stáhnout z oficiálního webu LoS Tools:
 
 Plugin si také můžete stáhnout jako ZIP soubor:
 
-[Stáhnout LoS Tools jako ZIP](DOPLNIT-ODKAZ-NA-ZIP)
+[Stáhnout LoS Tools jako ZIP](https://hromkova.github.io/los-tools/downloads/los_tools.zip)
 
 Stažený ZIP soubor potom v QGIS nainstalujete přes správce zásuvných modulů.
 
