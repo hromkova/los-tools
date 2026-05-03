@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Začít s LoS Tools
-subtitle: Rychlý průvodce od ukázky výsledků po první výpočet
+subtitle: Rychlý průvodce od instalace po první výpočet
 ---
 
 Tato stránka vás provede základním postupem, jak začít pracovat s nástroji **LoS Tools** v QGIS.
 
-Pokud s nástroji začínáte, postupujte krok za krokem. Nejdřív si udělejte představu, co nástroje umí, a potom pokračujte instalací a prvním výpočtem.
+Pokud s nástroji začínáte, postupujte krok za krokem. Nejdříve si udělejte představu, co nástroje umožňují zjistit, potom pokračujte instalací, přípravou dat a prvním výpočtem.
 
-## 1. Podívejte se, co lze pomocí LoS Tools zjistit
+## 1. Co lze pomocí LoS Tools zjistit
 
 LoS Tools pomáhají odpovědět například na otázky:
 
@@ -17,9 +17,11 @@ LoS Tools pomáhají odpovědět například na otázky:
 - jak se liší horizonty z různých pozorovacích míst,
 - na jakém typu využití území horizont leží.
 
-Než začnete s instalací, můžete si projít přehled modelových příkladů:
+Přehled typických úloh najdete zde:
 
 [Modelové příklady](priklady.md)
+
+<!-- TODO: Později sem lze vložit krátký obrázek nebo schéma výsledků. -->
 
 ## 2. Nainstalujte QGIS
 
@@ -36,11 +38,38 @@ Plugin můžete získat dvěma způsoby:
 - z oficiálního webu pluginu,
 - jako ZIP soubor z tohoto webu.
 
-Podrobný postup najdete na stránce:
+Podrobný postup instalace najdete zde:
 
 [Instalace pluginu](pruvodce/instalace.md)
 
-## 4. Připravte modelová data
+## 4. Najděte nástroje v QGIS
+
+Po instalaci pluginu se nástroje **LoS Tools** zobrazí v QGIS v panelu **Processing Toolbox**.
+
+Panel najdete obvykle v pravé části okna QGIS. Pokud ho nevidíte, zapněte ho v horním menu:
+
+**Processing → Toolbox**
+
+V panelu **Processing Toolbox** vyhledejte skupinu:
+
+**LoS Tools**
+
+Po rozbalení skupiny uvidíte jednotlivé části nástrojů, například:
+
+- **Azimuths**,
+- **Calculate Parameters Settings**,
+- **Horizons**,
+- **LoS Analysis**,
+- **LoS Creation**,
+- **Points Creation**,
+- **Raster Editing**.
+
+Pokud skupinu **LoS Tools** v panelu nevidíte, zkontrolujte, zda je plugin správně nainstalovaný a povolený ve správci zásuvných modulů.
+
+<!-- TODO: Později sem vložit screenshot QGIS: Processing Toolbox → LoS Tools. -->
+<!-- Doporučený soubor: assets/images/qgis-los-tools-processing-toolbox.png -->
+
+## 5. Připravte modelová data
 
 Pro první vyzkoušení je připravený digitální model povrchu Brna a další podklady.
 
@@ -48,13 +77,14 @@ Všechna dostupná data a soubory najdete zde:
 
 [Ke stažení](stazeni.md)
 
-Více o tom, jaká data jsou pro výpočet potřeba, najdete na stránce:
+Více o tom, jaká data jsou pro výpočet potřeba, najdete zde:
 
 [Jaká data jsou potřeba](pruvodce/data.md)
 
-## 5. Projděte si základní pojmy
+## 6. Projděte si základní pojmy
 
 Před prvním výpočtem je dobré vědět, co znamená:
+
 - pozorovatel,
 - cíl,
 - linie viditelnosti,
@@ -64,21 +94,32 @@ Před prvním výpočtem je dobré vědět, co znamená:
 
 [Základní pojmy](pruvodce/pojmy.md)
 
-## 6. Spusťte první výpočet horizontu
+## 7. Spusťte první výpočet horizontu
 
 Začněte jednoduchým výpočtem horizontu kolem jednoho pozorovacího bodu.
 
+Tento krok vás provede načtením dat, přípravou vstupů a spuštěním základní analýzy.
+
 [První výpočet horizontu](pruvodce/prvni-vypocet.md)
 
-## 7. Zkontrolujte a přečtěte výsledky
+<!-- TODO: Později sem lze vložit krátké video: první výpočet horizontu v QGIS. -->
 
-Po výpočtu si výsledek zobrazíte v mapě a atributové tabulce. Naučíte se rozpoznat linie viditelnosti, horizontní body, horizontní linii a základní atributy výsledku.
+## 8. Zkontrolujte a přečtěte výsledky
+
+Po výpočtu si výsledek zobrazíte v mapě a atributové tabulce.
+
+Naučíte se rozpoznat:
+
+- linie viditelnosti,
+- horizontní body,
+- horizontní linii,
+- základní atributy výsledku.
 
 [Jak číst výsledky](pruvodce/vysledky.md)
 
-## 8. Pokračujte modelovými příklady
+## 9. Pokračujte modelovými příklady
 
-Až zvládnete první výpočet, můžete si vyzkoušet další situace:
+Až zvládnete první výpočet, můžete pokračovat dalšími modelovými příklady:
 
 - horizont kolem jednoho pozorovatele,
 - viditelnost vybraného cíle,
