@@ -39,7 +39,7 @@ Pro výpočet použijte připravený digitální model povrchu Brna a další po
 
 Stáhněte si připravený model pro výpočet horizontu a přiřazení využití území:
 
-[Stáhnout QGIS model](downloads/models/horizon_landuse.model3)
+[Stáhnout QGIS model](downloads/models/horizon-land-use.model3)
 
 ## Jak přidat model do QGIS
 
