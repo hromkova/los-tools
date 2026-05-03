@@ -35,11 +35,13 @@ Pro výpočet použijte připravený digitální model povrchu Brna a další po
 
 <a href="https://github.com/hromkova/los-tools/releases/download/data-dmp-brno-2019-v1/dmp_brno_19.zip" target="_blank" rel="noopener noreferrer">Stáhnout modelová data DMP Brno 2019</a>
 
-### QGIS Processing model
+## QGIS Processing model
 
-Stáhněte si připravený model pro výpočet horizontu a přiřazení využití území:
+Pro tento příklad je připravený QGIS Processing model, který spojí jednotlivé kroky výpočtu do jednoho postupu.
 
-[Stáhnout QGIS model](downloads/models/horizon-land-use.model3)
+[Stáhnout QGIS model jako ZIP](downloads/models/horizon-landuse.zip)
+
+Po stažení ZIP soubor rozbalte. V QGIS potom přidejte soubor `horizon_landuse.model3` do Processing Toolboxu do části Add Model to Toolbox.
 
 ## Jak přidat model do QGIS
 
