@@ -1,3 +1,7 @@
+[Domů](index.md) | [Začít zde](zacit.md) | [Instalace](instalace.md) | [Data](data.md) | [Pojmy](pojmy.md) | [Příklady](priklady.md) | [FAQ](faq.md) | [Odkazy](odkazy.md)
+
+---
+
 # Odkazy
 
 Na této stránce jsou uvedeny důležité odkazy pro práci s LoS Tools, QGIS a modelovými daty.
