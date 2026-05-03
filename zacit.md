@@ -1,7 +1,3 @@
-[Domů](index.md) | [Začít s LoS Tools](zacit.md) | [Modelové příklady](priklady.md) | [Ke stažení](stazeni.md) | [FAQ](faq.md) | [Odkazy](odkazy.md)
-
----
-
 # Začít zde
 
 Tato stránka je rychlý rozcestník pro uživatele, kteří chtějí začít pracovat s LoS Tools v QGIS.
