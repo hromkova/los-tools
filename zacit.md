@@ -1,68 +1,88 @@
 ---
 layout: page
 title: Začít s LoS Tools
-subtitle: Rychlý průvodce od instalace po první výpočet
+subtitle: Rychlý průvodce od ukázky výsledků po první výpočet
 ---
 
-Tato stránka je rychlý rozcestník pro uživatele, kteří chtějí začít pracovat s LoS Tools v QGIS.
+Tato stránka vás provede základním postupem, jak začít pracovat s nástroji **LoS Tools** v QGIS.
 
-Pokud s nástroji začínáte, doporučujeme postupovat v tomto pořadí.
+Pokud s nástroji začínáte, postupujte krok za krokem. Nejdřív si udělejte představu, co nástroje umí, a potom pokračujte instalací a prvním výpočtem.
 
-## 1. Nainstalujte QGIS
+## 1. Podívejte se, co lze pomocí LoS Tools zjistit
+
+LoS Tools pomáhají odpovědět například na otázky:
+
+- kde se z vybraného místa nachází pohledový horizont,
+- zda je konkrétní cíl viditelný,
+- jak se liší horizonty z různých pozorovacích míst,
+- na jakém typu využití území horizont leží.
+
+Než začnete s instalací, můžete si projít přehled modelových příkladů:
+
+[Modelové příklady](priklady.md)
+
+## 2. Nainstalujte QGIS
 
 LoS Tools fungují jako plugin v prostředí QGIS.
 
 Nástroje jsou ověřené a spolehlivě fungují ve verzi **QGIS 3.44**.
 
-QGIS si můžete stáhnout zde:
+<a href="https://www.qgis.org/download/" target="_blank" rel="noopener noreferrer">Stáhnout QGIS</a>
 
-[Stáhnout QGIS](https://www.qgis.org/download/)
-
-## 2. Nainstalujte plugin LoS Tools
+## 3. Nainstalujte plugin LoS Tools
 
 Plugin můžete získat dvěma způsoby:
 
-### Možnost A: Instalace z oficiálního webu pluginu
+- z oficiálního webu pluginu,
+- jako ZIP soubor z tohoto webu.
 
-Plugin si můžete stáhnout z oficiálního webu LoS Tools:
+Podrobný postup najdete na stránce:
 
-[Oficiální stránka LoS Tools](https://cahik.cz/projects/lostools)
+[Instalace pluginu](pruvodce/instalace.md)
 
-### Možnost B: Stažení ZIP souboru
+## 4. Připravte modelová data
 
-Plugin si také můžete stáhnout jako ZIP soubor:
+Pro první vyzkoušení je připravený digitální model povrchu Brna a další podklady.
 
-[Stáhnout LoS Tools jako ZIP](https://github.com/hromkova/los-tools/raw/refs/heads/main/downloads/los_tools.zip)
+Všechna dostupná data a soubory najdete zde:
 
-Stažený ZIP soubor lze v QGIS nainstalovat přes správce zásuvných modulů.
+[Ke stažení](stazeni.md)
 
-Podrobný návod najdete zde:
-
-[Instalace](pruvodce/instalace.md)
-
-## 3. Stáhněte modelová data
-
-Pro vyzkoušení výpočtu je připravený digitální model povrchu Brna.
-
-[Stáhnout DMP Brno 2019](https://github.com/hromkova/los-tools/releases/download/data-dmp-brno-2019-v1/dmp_brno_19.zip)
-
-Více informací o datech najdete zde:
+Více o tom, jaká data jsou pro výpočet potřeba, najdete na stránce:
 
 [Jaká data jsou potřeba](pruvodce/data.md)
 
-## 4. Projděte si základní pojmy
+## 5. Projděte si základní pojmy
 
-Před prvním výpočtem je dobré vědět, co znamená pozorovatel, cíl, linie viditelnosti, horizont nebo azimut.
+Před prvním výpočtem je dobré vědět, co znamená:
+- pozorovatel,
+- cíl,
+- linie viditelnosti,
+- horizont,
+- azimut,
+- výška pozorovatele nad terénem.
 
 [Základní pojmy](pruvodce/pojmy.md)
 
-## 5. Spusťte první modelový příklad
+## 6. Spusťte první výpočet horizontu
 
-Začněte jednoduchým výpočtem horizontu kolem jednoho pozorovatele.
+Začněte jednoduchým výpočtem horizontu kolem jednoho pozorovacího bodu.
 
-[Modelové příklady](pruvodce/priklady.md)
+[První výpočet horizontu](pruvodce/prvni-vypocet.md)
 
-## Zpět na hlavní stránku
+## 7. Zkontrolujte a přečtěte výsledky
 
-[Domů](index.md)
+Po výpočtu si výsledek zobrazíte v mapě a atributové tabulce. Naučíte se rozpoznat linie viditelnosti, horizontní body, horizontní linii a základní atributy výsledku.
 
+[Jak číst výsledky](pruvodce/vysledky.md)
+
+## 8. Pokračujte modelovými příklady
+
+Až zvládnete první výpočet, můžete si vyzkoušet další situace:
+
+- horizont kolem jednoho pozorovatele,
+- viditelnost vybraného cíle,
+- porovnání více pozorovacích míst,
+- horizont a využití území.
+
+[Modelové příklady](priklady.md)
