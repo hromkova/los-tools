@@ -1,6 +1,8 @@
-# Ke stažení
-
-Na této stránce najdete soubory potřebné pro vyzkoušení nástroje LoS Tools.
+---
+layout: page
+title: Ke stažení
+subtitle: Plugin LoS Tools a modelová data
+---
 
 ## Plugin LoS Tools
 
