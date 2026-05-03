@@ -2,7 +2,7 @@
 
 ---
 
-# LoS Tools
+# LoS Tools Lab
 
 **LoS Tools** jsou nástroje pro QGIS určené k analýze linií viditelnosti a výpočtu pohledových horizontů.
 
@@ -23,14 +23,14 @@ Na tomto webu najdete:
 - jak řešit nejčastější problémy.
 
 ## Hlavní části webu
-
-- [Začít zde](zacit.md)
-- [Instalace](instalace.md)
-- [Jaká data jsou potřeba](data.md)
-- [Základní pojmy](pojmy.md)
+- [Instalace](pruvodce/instalace.md)
+- [Jaká data jsou potřeba](pruvodce/data.md)
+- [Základní pojmy](pruvodce/pojmy.md)
+- [První výpočet horizontu](pruvodce/prvni-vypocet.md)
+- [Jak číst výsledky](pruvodce/vysledky.md)
 - [Modelové příklady](priklady.md)
-- [Časté problémy](faq.md)
-- [Odkazy](odkazy.md)
+- [Ke stažení](stazeni.md)
+
 
 ## Doporučený první krok
 
