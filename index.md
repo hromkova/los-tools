@@ -1,8 +1,10 @@
 # LoS Tools
 
-**LoS Tools** jsou nástroje pro QGIS, které pomáhají analyzovat viditelnost v krajině a počítat pohledové horizonty.
+**LoS Tools** jsou nástroje pro QGIS určené k analýze linií viditelnosti a výpočtu pohledových horizontů.
 
-Web je určený hlavně pro uživatele, kteří mají základní zkušenost s QGIS, ale zatím nepracovali s analýzou linií viditelnosti nebo výpočtem horizontů.
+Pomáhají zjistit, co je z vybraného místa v krajině viditelné, kde se nachází horizont a jak lze výsledky dále interpretovat v prostředí GIS.
+
+Web je určený hlavně pro běžné uživatele QGIS, studenty a další zájemce, kteří mají základní zkušenost s prací v QGIS, ale zatím nepracovali s analýzou viditelnosti nebo výpočtem horizontů.
 
 ## Co se zde naučíte
 
@@ -12,9 +14,9 @@ Na tomto webu najdete:
 - jak plugin nainstalovat do QGIS,
 - jaká data jsou potřeba,
 - co znamenají základní pojmy,
-- jak spustit první výpočet horizontu,
+- jak provést první výpočet horizontu,
 - jak si postup vyzkoušet na modelových datech,
-- jak číst výsledky v mapě a atributové tabulce.
+- jak řešit nejčastější problémy.
 
 ## Hlavní části webu
 
