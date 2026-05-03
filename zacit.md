@@ -65,3 +65,4 @@ Začněte jednoduchým výpočtem horizontu kolem jednoho pozorovatele.
 ## Zpět na hlavní stránku
 
 [Domů](index.md)
+
