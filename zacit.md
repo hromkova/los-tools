@@ -1,3 +1,7 @@
+[Domů](index.md) | [Začít zde](zacit.md) | [Instalace](instalace.md) | [Data](data.md) | [Pojmy](pojmy.md) | [Příklady](priklady.md) | [FAQ](faq.md) | [Odkazy](odkazy.md)
+
+---
+
 # Začít zde
 
 Tato stránka je rychlý rozcestník pro uživatele, kteří chtějí začít pracovat s LoS Tools v QGIS.
