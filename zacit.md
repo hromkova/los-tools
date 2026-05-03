@@ -38,7 +38,7 @@ Stažený ZIP soubor lze v QGIS nainstalovat přes správce zásuvných modulů.
 
 Podrobný návod najdete zde:
 
-[Instalace](instalace.md)
+[Instalace](pruvodce/instalace.md)
 
 ## 3. Stáhněte modelová data
 
@@ -48,19 +48,19 @@ Pro vyzkoušení výpočtu je připravený digitální model povrchu Brna.
 
 Více informací o datech najdete zde:
 
-[Jaká data jsou potřeba](data.md)
+[Jaká data jsou potřeba](pruvodce/data.md)
 
 ## 4. Projděte si základní pojmy
 
 Před prvním výpočtem je dobré vědět, co znamená pozorovatel, cíl, linie viditelnosti, horizont nebo azimut.
 
-[Základní pojmy](pojmy.md)
+[Základní pojmy](pruvodce/pojmy.md)
 
 ## 5. Spusťte první modelový příklad
 
 Začněte jednoduchým výpočtem horizontu kolem jednoho pozorovatele.
 
-[Modelové příklady](priklady.md)
+[Modelové příklady](pruvodce/priklady.md)
 
 ## Zpět na hlavní stránku
 
