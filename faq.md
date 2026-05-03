@@ -1,3 +1,7 @@
+[Domů](index.md) | [Začít zde](zacit.md) | [Instalace](instalace.md) | [Data](data.md) | [Pojmy](pojmy.md) | [Příklady](priklady.md) | [FAQ](faq.md) | [Odkazy](odkazy.md)
+
+---
+
 # Časté problémy
 
 Tato stránka shrnuje nejčastější potíže, které mohou nastat při práci s LoS Tools.
