@@ -4,7 +4,6 @@ title: Časté problémy
 subtitle: Řešení nejběžnějších potíží při práci s LoS Tools
 ---
 
-
 ## Plugin v QGIS není vidět
 
 Zkontrolujte:
