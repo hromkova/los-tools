@@ -1,4 +1,8 @@
-# Začít zde
+---
+layout: page
+title: Začít s LoS Tools
+subtitle: Rychlý průvodce od instalace po první výpočet
+---
 
 Tato stránka je rychlý rozcestník pro uživatele, kteří chtějí začít pracovat s LoS Tools v QGIS.
 
