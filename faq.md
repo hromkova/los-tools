@@ -1,6 +1,9 @@
-# Časté problémy
+---
+layout: page
+title: Časté problémy
+subtitle: Řešení nejběžnějších potíží při práci s LoS Tools
+---
 
-Tato stránka shrnuje nejčastější potíže, které mohou nastat při práci s LoS Tools.
 
 ## Plugin v QGIS není vidět
 
