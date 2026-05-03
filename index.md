@@ -1,4 +1,8 @@
-# LoS Tools Lab
+---
+layout: page
+title: LoS Tools Lab
+subtitle: Návody, modelová data a příklady využití nástrojů LoS Tools v QGIS
+---
 
 **LoS Tools** jsou nástroje pro QGIS určené k analýze linií viditelnosti a výpočtu pohledových horizontů.
 
