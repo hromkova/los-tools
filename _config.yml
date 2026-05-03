@@ -1,4 +1,27 @@
 title: LoS Tools
 description: Návody, modelová data a příklady využití nástrojů LoS Tools v QGIS
-theme: jekyll-theme-cayman
-show_downloads: false
+
+remote_theme: daattali/beautiful-jekyll@6.0.1
+
+navbar-links:
+  Domů: "index"
+  Začít s LoS Tools: "zacit"
+  Modelové příklady: "priklady"
+  Ke stažení: "stazeni"
+  FAQ: "faq"
+  Odkazy: "odkazy"
+
+title-img: ""
+
+author: "LoS Tools"
+round-avatar: false
+
+social-network-links:
+  github: hromkova/los-tools
+
+share-links-active:
+  twitter: false
+  facebook: false
+  linkedin: false
+
+remove-ads: true
