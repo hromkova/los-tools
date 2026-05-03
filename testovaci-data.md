@@ -1,7 +1,3 @@
-[Domů](index.md) | [Začít s LoS Tools](zacit.md) | [Modelové příklady](priklady.md) | [Ke stažení](stazeni.md) | [FAQ](faq.md) | [Odkazy](odkazy.md)
-
----
-
 # Testovací data
 
 Na této stránce jsou ke stažení modelová data pro vyzkoušení nástroje LoS Tools v QGIS.
