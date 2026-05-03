@@ -6,9 +6,7 @@ subtitle: Výukový web pro práci s nástroji LoS Tools v QGIS
 
 **LoS Tools Lab** je výukový web, který vás krok za krokem provede prací s nástroji **LoS Tools** v prostředí QGIS.
 
-Nástroje **LoS Tools** vytvořil **Jan Caha**. Jedná se o plugin pro QGIS zaměřený na analýzy viditelnosti, tvorbu linií viditelnosti a výpočet pohledových horizontů. Oficiální stránku nástroje najdete zde:
-
-[Oficiální stránka LoS Tools](https://cahik.cz/projects/lostools/)
+Nástroje **LoS Tools** vytvořil **Jan Caha**. Jedná se o plugin pro QGIS zaměřený na analýzy viditelnosti, tvorbu linií viditelnosti a výpočet pohledových horizontů. Oficiální stránku nástroje najdete na [webu pluginu LoS Tools](https://jancaha.github.io/qgis_los_tools/) a na [stránkách autora](https://cahik.cz/projects/lostools/)
 
 Tento web slouží jako praktický průvodce pro uživatele, kteří si chtějí nástroje vyzkoušet na modelových datech a naučit se interpretovat výsledky.
 
@@ -17,7 +15,6 @@ Tento web slouží jako praktický průvodce pro uživatele, kteří si chtějí
 Web je určený hlavně pro uživatele, kteří mají základní zkušenost s QGIS, ale zatím nepracovali s analýzou viditelnosti nebo výpočtem horizontů.
 
 Hodí se například pro:
-
 - studenty,
 - pracovníky veřejné správy,
 - krajináře a urbanisty,
@@ -27,7 +24,6 @@ Hodí se například pro:
 ## Co se zde naučíte
 
 Na webu najdete postupně:
-
 1. jak nainstalovat QGIS a plugin LoS Tools,
 2. jaká data jsou potřeba,
 3. co znamenají základní pojmy,
@@ -38,5 +34,4 @@ Na webu najdete postupně:
 ## Doporučený první krok
 
 Pokud s LoS Tools začínáte, pokračujte stránkou:
-
 [Začít s LoS Tools](zacit.md)
