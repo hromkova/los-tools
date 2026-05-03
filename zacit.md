@@ -4,72 +4,59 @@ Tato stránka je rychlý rozcestník pro uživatele, kteří chtějí začít pr
 
 Pokud s nástroji začínáte, doporučujeme postupovat v tomto pořadí.
 
-## Doporučený postup
+## 1. Nainstalujte QGIS
 
-### 1. Nainstalujte QGIS
+LoS Tools fungují jako plugin v prostředí QGIS.
 
-LoS Tools jsou určeny pro práci v prostředí QGIS.
-
-Nástroje spolehlivě fungují ve verzi **QGIS 3.44**.
+Nástroje jsou ověřené a spolehlivě fungují ve verzi **QGIS 3.44**.
 
 QGIS si můžete stáhnout zde:
 
 [Stáhnout QGIS](https://www.qgis.org/download/)
 
-Po instalaci QGIS spusťte a ověřte, že se program správně otevře.
-
-### 2. Nainstalujte plugin LoS Tools
-
-LoS Tools se instalují jako plugin do QGIS.
+## 2. Nainstalujte plugin LoS Tools
 
 Plugin můžete získat dvěma způsoby:
 
-#### Možnost A: Instalace z oficiálního webu pluginu
+### Možnost A: Instalace z oficiálního webu pluginu
 
 Plugin si můžete stáhnout z oficiálního webu LoS Tools:
 
-[Oficiální web pluginu LoS Tools](https://plugins.qgis.org/plugins/los_tools/)
+[Oficiální stránka LoS Tools](https://cahik.cz/projects/lostools)
 
-#### Možnost B: Stažení ZIP souboru
+### Možnost B: Stažení ZIP souboru
 
 Plugin si také můžete stáhnout jako ZIP soubor:
 
-[Stáhnout LoS Tools jako ZIP](https://github.com/hromkova/los-tools/blob/main/downloads/los_tools.zip)
+[Stáhnout LoS Tools jako ZIP](downloads/los_tools.zip)
 
-Stažený ZIP soubor potom v QGIS nainstalujete přes správce zásuvných modulů.
+Stažený ZIP soubor lze v QGIS nainstalovat přes správce zásuvných modulů.
 
-Podrobnější návod bude uveden na stránce:
+Podrobný návod najdete zde:
 
 [Instalace](instalace.md)
 
-### 3. Připravte nebo stáhněte data
+## 3. Stáhněte modelová data
 
-Pro výpočet horizontu budete potřebovat hlavně výškový model a bod pozorovatele.
+Pro vyzkoušení výpočtu je připravený digitální model povrchu Brna.
 
-Více najdete zde:
+[Stáhnout DMP Brno 2019](https://github.com/hromkova/los-tools/releases/download/data-dmp-brno-2019-v1/dmp_brno_19.zip)
+
+Více informací o datech najdete zde:
 
 [Jaká data jsou potřeba](data.md)
 
-### 4. Projděte si základní pojmy
+## 4. Projděte si základní pojmy
 
 Před prvním výpočtem je dobré vědět, co znamená pozorovatel, cíl, linie viditelnosti, horizont nebo azimut.
 
-Pokračujte na stránku:
-
 [Základní pojmy](pojmy.md)
 
-### 5. Spusťte první modelový příklad
+## 5. Spusťte první modelový příklad
 
-Nejjednodušší je začít výpočtem horizontu kolem jednoho pozorovatele.
-
-Pokračujte na stránku:
+Začněte jednoduchým výpočtem horizontu kolem jednoho pozorovatele.
 
 [Modelové příklady](priklady.md)
-
-### 6. Zkontrolujte výsledky
-
-Po výpočtu si výsledek zobrazíte v mapě a atributové tabulce.  
-Důležité je ověřit, zda výsledek odpovídá vstupním datům a zadaným parametrům.
 
 ## Zpět na hlavní stránku
 
