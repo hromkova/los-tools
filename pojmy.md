@@ -1,3 +1,7 @@
+[Domů](index.md) | [Začít zde](zacit.md) | [Instalace](instalace.md) | [Data](data.md) | [Pojmy](pojmy.md) | [Příklady](priklady.md) | [FAQ](faq.md) | [Odkazy](odkazy.md)
+
+---
+
 # Základní pojmy
 
 Tato stránka jednoduše vysvětluje pojmy, se kterými se při práci s LoS Tools setkáte.
