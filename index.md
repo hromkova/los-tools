@@ -1,29 +1,33 @@
-# LoS tools
+# LoS Tools
 
-**LoS tools** jsou nástroje pro analýzu pohledových horizontů a viditelnosti v prostředí QGIS.
+**LoS Tools** jsou nástroje pro QGIS, které pomáhají analyzovat viditelnost v krajině a počítat pohledové horizonty.
 
-Web je určený pro uživatele GIS nástrojů, studenty a další zájemce, kteří chtějí porozumět práci s pohledovými horizonty a line-of-sight analýzou.
+Web je určený hlavně pro uživatele, kteří mají základní zkušenost s QGIS, ale zatím nepracovali s analýzou linií viditelnosti nebo výpočtem horizontů.
 
-## Co zde najdete
+## Co se zde naučíte
 
-- k čemu slouží analýza horizontů,
-- popis nástrojů LoS tools,
-- co je potřeba k analýze,
-- postup analýzy krok za krokem,
-- modelové příklady využití,
-- odkazy na data a další zdroje.
+Na tomto webu najdete:
 
-## Obsah webu
+- k čemu LoS Tools slouží,
+- jak plugin nainstalovat do QGIS,
+- jaká data jsou potřeba,
+- co znamenají základní pojmy,
+- jak spustit první výpočet horizontu,
+- jak si postup vyzkoušet na modelových datech,
+- jak číst výsledky v mapě a atributové tabulce.
 
-- [K čemu horizonty](k-cemu-horizonty.md)
-- [O nástrojích](o-nastrojich.md)
-- [Co k analýze potřebuji](co-k-analyze-potrebuji.md)
-- [Postup analýzy](postup-analyzy.md)
-- [Modelové příklady využití](modelove-priklady.md)
-- [Kontakt](kontakt.md)
+## Hlavní části webu
 
-## Původní verze webu
+- [Začít zde](zacit.md)
+- [Instalace](instalace.md)
+- [Jaká data jsou potřeba](data.md)
+- [Základní pojmy](pojmy.md)
+- [Modelové příklady](priklady.md)
+- [Časté problémy](faq.md)
+- [Odkazy](odkazy.md)
 
-Obsah vychází z původního webu na Google Sites:
+## Doporučený první krok
 
-[LoS tools na Google Sites](https://sites.google.com/view/los-tools/domovsk%C3%A1-str%C3%A1nka)
+Pokud s LoS Tools začínáte, pokračujte stránkou:
+
+[Začít zde](zacit.md)
