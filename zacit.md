@@ -8,16 +8,37 @@ Pokud s nástroji začínáte, doporučujeme postupovat v tomto pořadí.
 
 ### 1. Nainstalujte QGIS
 
-LoS Tools fungují jako plugin v programu QGIS.  
-Nejdříve je proto potřeba mít nainstalovaný QGIS.
+LoS Tools jsou určeny pro práci v prostředí QGIS.
 
-Pokud QGIS ještě nemáte, stáhněte ho z oficiální stránky QGIS.
+Nástroje spolehlivě fungují ve verzi **QGIS 3.44**.
+
+QGIS si můžete stáhnout zde:
+
+[Stáhnout QGIS](https://www.qgis.org/download/)
+
+Po instalaci QGIS spusťte a ověřte, že se program správně otevře.
 
 ### 2. Nainstalujte plugin LoS Tools
 
-Plugin se instaluje přímo v QGIS přes správce zásuvných modulů.
+LoS Tools se instalují jako plugin do QGIS.
 
-Pokračujte na stránku:
+Plugin můžete získat dvěma způsoby:
+
+#### Možnost A: Instalace z oficiálního webu pluginu
+
+Plugin si můžete stáhnout z oficiálního webu LoS Tools:
+
+[Oficiální web pluginu LoS Tools](https://plugins.qgis.org/plugins/los_tools/)
+
+#### Možnost B: Stažení ZIP souboru
+
+Plugin si také můžete stáhnout jako ZIP soubor:
+
+[Stáhnout LoS Tools jako ZIP](DOPLNIT-ODKAZ-NA-ZIP)
+
+Stažený ZIP soubor potom v QGIS nainstalujete přes správce zásuvných modulů.
+
+Podrobnější návod bude uveden na stránce:
 
 [Instalace](instalace.md)
 
