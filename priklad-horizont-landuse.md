@@ -136,7 +136,7 @@ Výstupní tabulka může obsahovat například:
 | `observer_id` | identifikátor pozorovacího bodu |
 | `landuse` | typ využití území pod horizontem |
 
-## Jak číst výsledek
+## Data pro využití území
 
 Data pro využití území lze stáhnout pro území města Brna na stránkách <a href="https://land.copernicus.eu/en/products/urban-atlas?tab=land_coverland_use " target="_blank" rel="noopener noreferrer">Urban Atlasu</a>
 
