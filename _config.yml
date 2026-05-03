@@ -1,11 +1,10 @@
 title: LoS Tools Lab
-subtitle: Lenka Hromková
 description: Návody, modelová data a příklady využití nástrojů LoS Tools v QGIS
 
 remote_theme: daattali/beautiful-jekyll@6.0.1
 
 navbar-links:
-  Domů: "index"
+  Domů: "/"
   Začít s LoS Tools: "zacit"
   Modelové příklady: "priklady"
   Ke stažení: "stazeni"
@@ -17,10 +16,3 @@ round-avatar: false
 
 social-network-links:
   github: hromkova/los-tools
-
-share-links-active:
-  twitter: false
-  facebook: false
-  linkedin: false
-
-remove-ads: true
