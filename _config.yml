@@ -3,6 +3,8 @@ description: Návody, modelová data a příklady využití nástrojů LoS Tools
 
 remote_theme: daattali/beautiful-jekyll@6.0.1
 
+site-css: "/assets/css/custom-styles.css"
+
 navbar-links:
   Domů: "/"
   Začít s LoS Tools: "zacit"
