@@ -1,0 +1,67 @@
+/* LoS Tools Lab – jemná světle modrá úprava vzhledu */
+
+/* Horní navigační lišta */
+.navbar-custom {
+  background-color: #eaf4fb;
+  border-bottom: 1px solid #cfe3f2;
+}
+
+/* Název webu vlevo v navigaci */
+.navbar-custom .navbar-brand {
+  color: #12384f;
+}
+
+/* Položky menu */
+.navbar-custom .nav li a {
+  color: #12384f;
+}
+
+/* Položky menu při najetí myší */
+.navbar-custom .nav li a:hover,
+.navbar-custom .navbar-brand:hover {
+  color: #0f766e;
+}
+
+/* Jemné světle modré pozadí hlavičky stránky */
+.intro-header {
+  background-color: #f3f9fd;
+}
+
+/* Hlavní nadpis v hlavičce */
+.intro-header .page-heading h1 {
+  color: #1f3b57;
+}
+
+/* Podnadpis */
+.intro-header .page-heading .page-subheading {
+  color: #49667c;
+}
+
+/* Krátký oddělovač pod nadpisem */
+.intro-header .page-heading .page-subheading:before,
+.intro-header .page-heading hr.small {
+  border-color: #9fc7df;
+}
+
+/* Nadpisy v obsahu */
+.main-content h1,
+.main-content h2,
+.main-content h3 {
+  color: #0f5f7a;
+}
+
+/* Odkazy */
+.main-content a {
+  color: #0f6fa6;
+}
+
+/* Odkazy při najetí */
+.main-content a:hover {
+  color: #0f766e;
+}
+
+/* Jemné zvýraznění bloků */
+blockquote {
+  border-left: 5px solid #9fc7df;
+  background-color: #f3f9fd;
+}
