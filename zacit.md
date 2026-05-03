@@ -1,4 +1,17 @@
-[Domů](index.md) | [Začít s LoS Tools](zacit.md) | [Modelové příklady](priklady.md) | [Ke stažení](stazeni.md) | [FAQ](faq.md) | [Odkazy](odkazy.md)
+[Instalace](pruvodce/instalace.md)
+
+[Jaká data jsou potřeba](pruvodce/data.md)
+
+[Základní pojmy](pruvodce/pojmy.md)
+
+[První výpočet horizontu](pruvodce/prvni-vypocet.md)
+
+[Jak číst výsledky](pruvodce/vysledky.md)
+
+[Modelové příklady](priklady.md)
+
+[Ke stažení](stazeni.md)
+
 
 ---
 
