@@ -1,3 +1,7 @@
+[Domů](index.md) | [Začít zde](zacit.md) | [Instalace](instalace.md) | [Data](data.md) | [Pojmy](pojmy.md) | [Příklady](priklady.md) | [FAQ](faq.md) | [Odkazy](odkazy.md)
+
+---
+
 # Jaká data jsou potřeba
 
 Pro výpočet horizontu pomocí LoS Tools potřebujete několik vstupních dat.
