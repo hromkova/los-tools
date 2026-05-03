@@ -1,61 +1,109 @@
-/* Odstranění zbytečné mezery mezi horním menu a hlavičkou stránky */
+/* =========================
+   LoS Tools Lab – doladění vzhledu
+   ========================= */
 
-.navbar-custom {
-  margin-bottom: 0 !important;
-}
-
-.intro-header {
-  margin-top: 0 !important;
-  padding-top: 55px !important;
-  padding-bottom: 45px !important;
-  background-color: #f3f9fd;
-}
-
-/* Kompaktnější titulní část stránky */
-
-.intro-header .page-heading,
-.intro-header .post-heading {
-  padding-top: 25px !important;
-  padding-bottom: 20px !important;
-}
-
-/* Hlavní nadpis */
-
-.intro-header .page-heading h1,
-.intro-header .post-heading h1 {
-  color: #1f3b57;
-}
-
-/* Podnadpis */
-
-.intro-header .page-heading .page-subheading,
-.intro-header .post-heading .post-subheading {
-  color: #49667c;
-}
-
-/* Oddělovač pod nadpisem */
-
-.intro-header hr.small {
-  border-color: #9fc7df;
-}
-
-/* Světle modré pozadí horního menu */
-
+/* Horní menu */
 .navbar-custom {
   background-color: #eaf4fb !important;
   border-bottom: 1px solid #cfe3f2 !important;
+  margin-bottom: 0 !important;
 }
-
-/* Odkazy v menu */
 
 .navbar-custom .navbar-brand,
 .navbar-custom .nav li a {
   color: #12384f !important;
 }
 
-/* Hover v menu */
-
 .navbar-custom .navbar-brand:hover,
 .navbar-custom .nav li a:hover {
   color: #0f766e !important;
+}
+
+/* Hlavička stránky */
+.intro-header {
+  margin-top: 0 !important;
+  padding-top: 95px !important;   /* tady přidáváme vzduch nad nadpis */
+  padding-bottom: 55px !important;
+  background-color: #f3f9fd !important;
+}
+
+/* Kompaktní, ale ne nalepený obsah hlavičky */
+.intro-header .page-heading,
+.intro-header .post-heading {
+  padding-top: 20px !important;
+  padding-bottom: 15px !important;
+}
+
+/* Hlavní nadpis */
+.intro-header .page-heading h1,
+.intro-header .post-heading h1 {
+  color: #1f3b57 !important;
+}
+
+/* Podnadpis */
+.intro-header .page-heading .page-subheading,
+.intro-header .post-heading .post-subheading {
+  color: #49667c !important;
+}
+
+/* Oddělovač pod nadpisem */
+.intro-header hr.small {
+  border-color: #9fc7df !important;
+}
+
+/* Nadpisy v obsahu */
+.main-content h1,
+.main-content h2,
+.main-content h3 {
+  color: #1f3b57;
+}
+
+/* Odkazy v obsahu */
+.main-content a {
+  color: #0f6fa6;
+}
+
+.main-content a:hover {
+  color: #0f766e;
+}
+
+/* Blokové citace / zvýraznění */
+blockquote {
+  border-left: 5px solid #9fc7df;
+  background-color: #f3f9fd;
+}
+
+/* =========================
+   Zápatí ve stejných odstínech
+   ========================= */
+
+footer {
+  background-color: #eaf4fb !important;
+  border-top: 1px solid #cfe3f2 !important;
+  color: #49667c !important;
+  margin-top: 50px;
+}
+
+footer a {
+  color: #12384f !important;
+}
+
+footer a:hover {
+  color: #0f766e !important;
+}
+
+/* Texty v patičce */
+footer .copyright,
+footer .theme-by,
+footer p {
+  color: #49667c !important;
+}
+
+/* Ikony v patičce */
+footer .fa-stack-2x {
+  color: #12384f !important;
+}
+
+footer .fa-stack-1x {
+  color: #ffffff !important;
 }
