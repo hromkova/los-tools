@@ -4,7 +4,9 @@ title: Horizont a využití území
 subtitle: Modelový příklad výpočtu horizontu v Brně
 ---
 
-Tento modelový příklad ukazuje, jak pomocí nástrojů **LoS Tools** vypočítat pohledový horizont a zjistit, na jakém typu využití území horizont leží.
+Tento modelový příklad byl vytvořen ve spolupráci se studentkou bakalářského studia oboru regionálního rozvoje, FRRMS, Mendelovy univerzity v Brně, která se zabývá ientifikací typů využití území v pohledových horizontech. 
+
+Připravovaný píklad ukazuje, jak pomocí nástrojů **LoS Tools** vypočítat pohledový horizont a zjistit, na jakém typu využití území horizont leží.
 
 Příklad je připravený pro území Brna a využívá předpřipravený model pro QGIS Processing Toolbox.
 
@@ -21,11 +23,10 @@ Výsledkem bude mapa a tabulka, ve které lze pro jednotlivé směry vyhodnotit 
 ## Co budete potřebovat
 
 Pro tento příklad budete potřebovat:
-
 1. QGIS 3.44,
 2. nainstalovaný plugin LoS Tools,
-3. modelová data pro území Brna,
-4. připravený QGIS Processing model.
+3. stažená modelová data pro území Brna,
+4. stažený QGIS Processing model.
 
 ## Ke stažení
 
