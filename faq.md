@@ -4,6 +4,23 @@ title: Časté problémy
 subtitle: Řešení nejběžnějších potíží při práci s LoS Tools
 ---
 
+## Jak nainstalovat plugin LoS Tools?
+
+Plugin je možné stáhnout z oficiální stránky LoS Tools:
+
+[Oficiální stránka LoS Tools](https://cahik.cz/projects/lostools)
+
+Postup instalace ZIP souboru v QGIS:
+
+1. Otevřete QGIS.
+2. V horním menu zvolte **Zásuvné moduly**.
+3. Vyberte **Spravovat a instalovat zásuvné moduly**.
+4. Přejděte na možnost **Instalovat ze ZIP**.
+5. Vyberte stažený soubor `los_tools.zip`.
+6. Klikněte na **Instalovat zásuvný modul**.
+7. Po instalaci otevřete v QGIS panel **Processing Toolbox**.
+8. Dílčí nástroje jsou součástí sady LoS Tools.
+
 ## Plugin v QGIS není vidět
 
 Zkontrolujte:
