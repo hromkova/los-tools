@@ -28,9 +28,30 @@ Po rozbalení skupiny uvidíte jednotlivé části nástrojů, například:
 - **Points Creation**,
 - **Raster Editing**.
 
+## 2. Stáhněte si model z ukázkových příkladů 
 
+Připravený model skládá několik nástrojů do jednoho.
 
-## 2. Pokračujte na modelový příklad
+1. Otevřete QGIS.
+2. Otevřete panel **Processing Toolbox**.
+3. V horní části panelu klikněte na ikonu modelů nebo otevřete **Processing Modeler**.
+4. Zvolte možnost pro otevření nebo přidání existujícího modelu.
+5. Vyberte stažený soubor modelu.
+6. Model se zobrazí v panelu **Processing Toolbox** ve skupině **Models**.
+
+### Jak model spustit
+
+1. Otevřete QGIS.
+2. Načtěte modelová data.
+3. V panelu **Processing Toolbox** najděte připravený model.
+4. Spusťte model dvojklikem.
+5. Vyberte vstupní vrstvy a parametry.
+6. Zvolte umístění pro uložení výstupů.
+7. Klikněte na **Run**.
+8. Po dokončení zkontrolujte výstupy v mapě.
+
+   
+## 3. Pokračujte na modelový příklad
 
 Ukázkový příklad propojuje výpočet pohledového horizontu s využitím území.
 
