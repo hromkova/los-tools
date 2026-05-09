@@ -1,7 +1,3 @@
-[Domů](../index.md) | [Začít s LoS Tools](../zacit.md) | [Modelové příklady](../priklady.md) | [Ke stažení](../stazeni.md) | [FAQ](../faq.md) | [Odkazy](../odkazy.md)
-
----
-
 # Instalace
 
 LoS Tools jsou plugin do programu QGIS.  
@@ -11,7 +7,7 @@ Plugin se používá přes prostředí QGIS a jeho nástroje se po instalaci zob
 
 Nástroje jsou ověřené a spolehlivě fungují ve verzi:
 
-**QGIS 3.44**
+**QGIS 4.0**
 
 QGIS si můžete stáhnout zde:
 
@@ -19,21 +15,9 @@ QGIS si můžete stáhnout zde:
 
 ## Instalace pluginu
 
-Plugin lze nainstalovat dvěma způsoby.
-
-## Možnost A: Stažení z oficiální stránky
-
 Plugin je možné stáhnout z oficiální stránky LoS Tools:
 
 [Oficiální stránka LoS Tools](https://cahik.cz/projects/lostools)
-
-Po stažení postupujte podle pokynů uvedených na stránce pluginu.
-
-## Možnost B: Instalace ze ZIP souboru
-
-Plugin si můžete stáhnout také jako ZIP soubor:
-
-[Stáhnout LoS Tools jako ZIP](downloads/los_tools.zip)
 
 Postup instalace ZIP souboru v QGIS:
 
@@ -52,10 +36,6 @@ Po instalaci otevřete v QGIS panel **Processing Toolbox**.
 Nástroje LoS Tools by měly být dostupné mezi nástroji zpracování.
 
 Pokud panel nevidíte, zapněte ho přes:
-
-**Zpracování → Panel nástrojů zpracování**
-
-nebo v anglické verzi:
 
 **Processing → Toolbox**
 
