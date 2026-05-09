@@ -28,7 +28,7 @@ Po rozbalení skupiny uvidíte jednotlivé části nástrojů, například:
 - **Points Creation**,
 - **Raster Editing**.
 
-## 2. Stáhněte si model z ukázkových příkladů 
+## 2. Přečtěte si, jak stáhnout model z ukázkových příkladů 
 
 Připravený model skládá několik nástrojů do jednoho.
 
@@ -53,6 +53,4 @@ Připravený model skládá několik nástrojů do jednoho.
    
 ## 3. Pokračujte na modelový příklad
 
-Ukázkový příklad propojuje výpočet pohledového horizontu s využitím území.
-
-<a href="priklad-horizont-landuse.html" target="_blank" rel="noopener noreferrer">Otevřít modelový příklad</a>
+[Modelový příklad](priklady.md)
