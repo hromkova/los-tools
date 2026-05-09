@@ -10,7 +10,7 @@ Nástroje **LoS Tools** vytvořil **Jan Caha**. Plugin slouží k analýze vidit
 
 ## Proč se zabývat pohledovými horizonty
 
-Pohledové horizonty jsou linie v krajině, které přitahují naši pozornost. Spoluutvářejí charakter místa a často mají estetickou i kulturní hodnotu.
+Pohledové horizonty jsou linie v krajině, které přitahují naši pozornost. Spoluutvářejí charakter místa a často mají vysokou estetickou i kulturní hodnotu.
 
 Výpočet horizontů pomáhá určit, kde se tyto linie z vybraného místa nacházejí a jak se v pohledu mohou projevit nové stavby nebo jiné zásahy do krajiny.
 
