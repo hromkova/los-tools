@@ -21,7 +21,7 @@ Výsledkem bude mapa a tabulka, ve které lze pro jednotlivé směry vyhodnotit 
 
 Pro tento příklad budete potřebovat:
 1. <a href="https://www.qgis.org/download/" target="_blank" rel="noopener noreferrer">QGIS</a>
-2. nainstalovaný <a href="pruvodce/instalace.html" target="_blank" rel="noopener noreferrer">plugin LoS Tools</a>
+2. nainstalovaný <a href="https://plugins.qgis.org/plugins/los_tools/" target="_blank" rel="noopener noreferrer">plugin LoS Tools</a>
 3. stažená <a href="https://github.com/hromkova/los-tools/releases/download/data-dmp-brno-2019-v1/dmp_brno_19.zip" target="_blank" rel="noopener noreferrer">modelová data DMP Brno 2019</a>
 4. stažený <a href="https://github.com/hromkova/los-tools/raw/refs/heads/main/downloads/models/horizon_landuse.zip" target="_blank" rel="noopener noreferrer">QGIS Processing model</a>
 
