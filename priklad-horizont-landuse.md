@@ -172,4 +172,4 @@ Před spuštěním modelu zkontrolujte:
 
 Po dokončení výpočtu pokračujte stránkou:
 
-[Jak číst výsledky](pruvodce/vysledky.md)
+[Časté problémy](faq.md)
