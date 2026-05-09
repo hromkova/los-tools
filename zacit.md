@@ -9,7 +9,9 @@ Tato stránka shrnuje nejjednodušší postup, jak si vyzkoušet nástroje **LoS
 ## 1. Připravte si QGIS a plugin
 
 Nejdříve nainstalujte 
-<a href="https://www.qgis.org/download/" target="_blank" rel="noopener noreferrer">QGIS</a> a <a href="pruvodce/instalace.html" target="_blank" rel="noopener noreferrer">plugin LoS Tools</a>
+<a href="https://www.qgis.org/download/" target="_blank" rel="noopener noreferrer">QGIS</a> a <a href="https://plugins.qgis.org/plugins/los_tools/" target="_blank" rel="noopener noreferrer">plugin LoS Tools</a>. 
+
+Pro postup instalace se podívejte na <a href="faq.html" target="_blank" rel="noopener noreferrer">FAQ</a>.
 
 Po instalaci pluginu se nástroje **LoS Tools** zobrazí v QGIS v panelu **Processing Toolbox**.
 
@@ -43,4 +45,4 @@ Ukázkový příklad propojuje výpočet pohledového horizontu s využitím úz
 
 Nejčastější problémy jsou shrnuté zde:
 
-<a href="faq.html" target="_blank" rel="noopener noreferrer">Časté problémy</a>
+<a href="faq.html" target="_blank" rel="noopener noreferrer">FAQ</a>
