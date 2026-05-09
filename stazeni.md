@@ -4,12 +4,6 @@ title: Ke stažení
 subtitle: Plugin LoS Tools a modelová data
 ---
 
-## Plugin LoS Tools
-
-Plugin lze stáhnout jako ZIP soubor a nainstalovat v QGIS přes správce zásuvných modulů.
-
-[Stáhnout LoS Tools jako ZIP](downloads/los_tools.zip)
-
 ## Modelová data DMP Brno 2019
 
 Pro modelové příklady je připraven digitální model povrchu pro území Brna.
