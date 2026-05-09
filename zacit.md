@@ -29,6 +29,7 @@ Po rozbalení skupiny uvidíte jednotlivé části nástrojů, například:
 - **Raster Editing**.
 
 
+
 ## 2. Pokračujte na modelový příklad
 
 Ukázkový příklad propojuje výpočet pohledového horizontu s využitím území.
