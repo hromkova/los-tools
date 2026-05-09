@@ -8,8 +8,8 @@ site-css: "/assets/css/custom-styles.css"
 navbar-links:
   Domů: "/"
   Začít s LoS Tools: "zacit"
-  Modelové příklady: "priklady"
   Ke stažení: "stazeni"
+  Modelové příklady: "priklady"
   FAQ: "faq"
   Odkazy: "odkazy"
 
