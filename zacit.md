@@ -29,20 +29,8 @@ Po rozbalení skupiny uvidíte jednotlivé části nástrojů, například:
 - **Raster Editing**.
 
 
-## 2. Stáhněte si data
-
-Pro vyzkoušení je připravený balíček s modelovými daty pro území Brna.
-
-<a href="stazeni.html" target="_blank" rel="noopener noreferrer">Ke stažení</a>
-
-## 3. Otevřete modelový příklad
+## 2. Pokračujte na modelový příklad
 
 Ukázkový příklad propojuje výpočet pohledového horizontu s využitím území.
 
 <a href="priklad-horizont-landuse.html" target="_blank" rel="noopener noreferrer">Otevřít modelový příklad</a>
-
-## Když něco nefunguje
-
-Nejčastější problémy jsou shrnuté zde:
-
-<a href="faq.html" target="_blank" rel="noopener noreferrer">FAQ</a>
