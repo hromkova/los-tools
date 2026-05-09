@@ -20,7 +20,7 @@ Výsledkem bude mapa a tabulka, ve které lze pro jednotlivé směry vyhodnotit 
 ## Co budete potřebovat
 
 Pro tento příklad budete potřebovat:
-1. <a href="https://www.qgis.org/download/" target="_blank" rel="noopener noreferrer">QGIS</a>
+1. nainstalovaný software <a href="https://www.qgis.org/download/" target="_blank" rel="noopener noreferrer">QGIS</a>
 2. nainstalovaný <a href="https://plugins.qgis.org/plugins/los_tools/" target="_blank" rel="noopener noreferrer">plugin LoS Tools</a>
 3. stažená <a href="https://github.com/hromkova/los-tools/releases/download/data-dmp-brno-2019-v1/dmp_brno_19.zip" target="_blank" rel="noopener noreferrer">modelová data DMP Brno 2019</a>
 4. stažený <a href="https://github.com/hromkova/los-tools/raw/refs/heads/main/downloads/models/horizon_landuse.zip" target="_blank" rel="noopener noreferrer">QGIS Processing model</a>
@@ -44,7 +44,7 @@ Připravený model skládá několik kroků do jednoho postupu.
 Model postupně:
 
 1. načte pozorovací bod,
-2. použije výšku pozorovatele nad povrchem (1,6 m, odpovídá výšce očí průůěrně vysokého člověka),
+2. použije výšku pozorovatele nad povrchem (1,6 m, odpovídá výšce očí průměrně vysokého člověka),
 3. vytvoří body kolem pozorovatele (360°),
 4. vytvoří linie viditelnosti (po 1°),
 5. na těchto liniích vypočítá body horizontu,
@@ -60,11 +60,10 @@ Díky tomu uživatel nemusí spouštět každý dílčí nástroj samostatně.
 3. V panelu **Processing Toolbox** najděte připravený model.
 4. Spusťte model dvojklikem.
 5. Vyberte vstupní vrstvy a parametry.
-6. Zvolte umístění výstupů.
+6. Zvolte umístění pro uložení výstupů.
 7. Klikněte na **Run**.
 8. Po dokončení zkontrolujte výstupy v mapě.
 
-   
 ## Vstupní parametry modelu
 
 Při spuštění modelu je potřeba nastavit několik vstupů.
@@ -75,7 +74,16 @@ Při spuštění modelu je potřeba nastavit několik vstupů.
 | `raster` | digitální model povrchu |
 | `id` | identifikátor pozorovacího bodu |
 | `offset` | výška pozorovatele nad povrchem |
-| `landuse` | polygonová vrstva využití území |
+
+## Umístění pozorovatele
+
+Základem je určit stanoviště pozorovatele = 'viewpoint'. 
+
+Lze využít již existující vrstvu s bodem pozorovatele nebo vytvořit novou bodovou vrstvu. 
+
+U pozorovacího bodu je třeba mít 2 atributy:
+1. 'ID' bodu
+2. 'offset' = výška pozorovatele (1,6, pokud stojí pozorovatel na povrchu, vyšší, pokud chceme pozorovatele umístit např. na rozhlednu či do patra budovy).
 
 ## Výstupy modelu
 
